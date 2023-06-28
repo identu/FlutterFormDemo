@@ -6,7 +6,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('登陆成功'),
+        title: Text('主页'),
       ),
       body: Center(
         child: Text('恭喜你注册并登陆成功！'),
